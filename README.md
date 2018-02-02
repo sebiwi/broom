@@ -40,7 +40,7 @@ either the 'LOL', 'GGG', "BRB' or 'YLO' values. You will probably want to change
 this according to your needs. If it is not, it will destroy the instance, and
 publish a report on the SNS topic.
 
-See this article for detailed information: https://sebiwi.github.io/broom/
+See this article for detailed information: https://sebiwi.github.io/blog/broom/
 
 ## This is pretty cool, thanks!
 
